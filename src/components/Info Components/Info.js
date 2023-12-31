@@ -15,7 +15,7 @@ function Info() {
 
               <div className='space-y-5'>
                 <h2 className='text-xl font-semibold mt-5'>Logs & Requests</h2>
-                <div className='flex'>
+                <div className='flex text-sm lg:text-base'>
                   <div className='h-10 border space-x-10 border-white flex justify-center border-r-2  items-center p-5 rounded-tl-lg  rounded-bl-lg bg-[#f2a84c]'>Attendance Log</div>
                   <div className='h-10 border border-white flex justify-center items-center p-5  rounded-tr-lg  rounded-br-lg bg-black'>Attendance Requests</div>
                 </div>
